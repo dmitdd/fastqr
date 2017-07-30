@@ -1,0 +1,34 @@
+{
+  "name": "FastQR",
+  "version": "1.0.0",
+  "description": "Fast QR codes reader",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:dmitdd/fastqr.git"
+  },
+  "author": {
+    "name": "Dmitriy Dmitriev",
+    "email": "dmit.dd@gmail.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dmitdd/fastqr/issues"
+  },
+  "homepage": "https://github.com/dmitdd/fastqr",
+  "devDependencies": {
+    "react-native-scripts": "0.0.50"
+  },
+  "dependencies": {
+    "expo": "^19.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-19.0.0.tar.gz",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2"
+  }
+}

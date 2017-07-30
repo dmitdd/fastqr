@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FastQR",
+    "description": "Fast QR codes reader",
+    "slug": "FastQR",
+    "sdkVersion": "19.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": true
+    }
+  }
+}
