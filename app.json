@@ -14,11 +14,7 @@
 			"hideExponentText": true
 		},
 		"android": {
-			"package": "com.dmitdd.fastqr",
-			"icon": "./assets/icons/app-logo-large.png",
-			"permissions": [
-				"CAMERA"
-			]
+			"package": "com.dmitdd.fastqr"
 		}
 	}
 }
