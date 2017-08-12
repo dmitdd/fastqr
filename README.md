@@ -11,3 +11,11 @@ Runs packager, you can see next instructions in command output
 ### `npm run ios`
 
 Runs packager and ios simulator
+
+### `npm run android`
+
+Runs packager and android simulator
+
+### `npm run exp`
+
+Exp command-line interface

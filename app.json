@@ -1,19 +1,24 @@
 {
-  "expo": {
-    "name": "FastQR",
-    "description": "Fast QR codes reader",
-    "slug": "FastQR",
-    "sdkVersion": "19.0.0",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "primaryColor": "#cccccc",
-    "icon": "./assets/icons/app-icon.png",
-    "loading": {
-      "icon": "./assets/icons/loading-icon.png",
-      "hideExponentText": true
-  },
-  "android": {
-      "package": "com.dmitdd.fasqr"
-    }
-  }
+	"expo": {
+		"name": "FastQR",
+		"description": "Fast QR codes reader",
+		"slug": "FastQR",
+		"sdkVersion": "19.0.0",
+		"version": "1.0.0",
+		"privacy": "public",
+		"orientation": "portrait",
+		"primaryColor": "#3a6993",
+		"icon": "./assets/icons/app-logo.png",
+		"loading": {
+			"icon": "./assets/icons/app-logo.png",
+			"hideExponentText": true
+		},
+		"android": {
+			"package": "com.dmitdd.fastqr",
+			"icon": "./assets/icons/app-logo-large.png",
+			"permissions": [
+				"CAMERA"
+			]
+		}
+	}
 }
